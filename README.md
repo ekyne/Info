@@ -1,4 +1,4 @@
-- 👋 Hi, my alias is Ekyne, and I am recent graduate from Middle Tennessee State University with a B.S. in Computer Science.
+- 👋 Hi, I am recent graduate from Middle Tennessee State University with a B.S. in Computer Science.
 - 👀 I’m interested in graphics programming, artificial intelligence, and graphic design.
 - 🌱 I’m currently challenging my knowledge of Unix/Linux, and am advancing my understanding of operating system fundamentals. 
 - 💞️ I’m looking to collaborate on back-end projects focused on AI and computer graphics.
