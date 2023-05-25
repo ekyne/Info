@@ -2,4 +2,4 @@
 - 👀 I’m interested in graphics programming, artificial intelligence, and graphic design.
 - 🌱 I’m currently challenging my knowledge of Unix/Linux, and am advancing my understanding of operating system fundamentals. 
 - 💞️ I’m looking to collaborate on back-end projects focused on AI and computer graphics.
-- 📫 How to reach me - Email: kydd3@proton.me
+- 📫 How to reach me - Email: kylegilmore96@gmail.com
